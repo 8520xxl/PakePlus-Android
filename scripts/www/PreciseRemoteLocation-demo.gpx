@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Codex" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>PreciseRemoteLocation Demo</name>
+    <desc>Page-level location simulation test route</desc>
+  </metadata>
+  <wpt lat="43.82559200" lon="87.61684800">
+    <ele>50.0</ele>
+    <name>START</name>
+  </wpt>
+  <trk>
+    <name>Demo route</name>
+    <trkseg>
+      <trkpt lat="43.82559200" lon="87.61684800"><ele>50.0</ele><time>2026-09-19T00:00:00Z</time></trkpt>
+      <trkpt lat="43.82584200" lon="87.61684800"><ele>50.2</ele><time>2026-09-19T00:00:05Z</time></trkpt>
+      <trkpt lat="43.82609200" lon="87.61709800"><ele>50.4</ele><time>2026-09-19T00:00:10Z</time></trkpt>
+      <trkpt lat="43.82634200" lon="87.61734800"><ele>50.6</ele><time>2026-09-19T00:00:15Z</time></trkpt>
+      <trkpt lat="43.82659200" lon="87.61759800"><ele>50.8</ele><time>2026-09-19T00:00:20Z</time></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
